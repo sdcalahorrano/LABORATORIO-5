@@ -111,6 +111,7 @@ Calculamos la Corriente y el Voltaje en R5 con la ley de Ohm
 
 *5. VIDEO*
 
+https://youtu.be/7QV1l_3TvP4
 
 *6. CONCLUSIONES* 
 
